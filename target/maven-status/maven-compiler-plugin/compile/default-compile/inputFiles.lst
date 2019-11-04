@@ -1,5 +1,8 @@
 /home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/HelloController.java
-/home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/FirstServlet.java
+/home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/com/ifi/bo/PokemonType.java
 /home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/RequestMapping.java
 /home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/DispatcherServlet.java
+/home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/com/ifi/repository/PokemonTypeRepository.java
+/home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/com/ifi/bo/Stats.java
+/home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/com/ifi/bo/Sprites.java
 /home/m2eserv/ouarkoubc/Downloads/pokemon-type-api--OCamelea/src/main/java/Controller.java
